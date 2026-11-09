@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Spirited Away", "year": 2001, "genre": "Animation", "minutes": 125 },
+  { "id": 2, "title": "Inception", "year": 2010, "genre": "Sci-Fi", "minutes": 148 },
+  { "id": 3, "title": "Parasite", "year": 2019, "genre": "Thriller", "minutes": 132 },
+  { "id": 4, "title": "Amélie", "year": 2001, "genre": "Comedy", "minutes": 122 },
+  { "id": 5, "title": "Interstellar", "year": 2014, "genre": "Sci-Fi", "minutes": 169 },
+  { "id": 6, "title": "Coco", "year": 2017, "genre": "Animation", "minutes": 105 }
+]
