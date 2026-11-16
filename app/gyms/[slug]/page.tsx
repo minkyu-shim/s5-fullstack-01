@@ -41,7 +41,15 @@ export default async function GymPage({ params }: PageProps<"/gyms/[slug]">) {
       <p className="text-muted">{gym.address}</p>
       <p className="mt-4 max-w-2xl">{gym.description}</p>
 
-      <h2 className="mt-10 text-xl font-semibold">Current routes</h2>
+      <div className="mt-10 flex items-baseline justify-between">
+        <h2 className="text-xl font-semibold">Current routes</h2>
+        <Link
+          href={`/gyms/${gym.slug}/routes/new`}
+          className="text-sm font-medium text-accent hover:underline"
+        >
+          + Add a route
+        </Link>
+      </div>
       {routes.length === 0 && (
         <p className="mt-4 text-muted">No routes on the wall right now.</p>
       )}

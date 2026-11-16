@@ -1,6 +1,7 @@
 import gyms from "@/data/gyms.json";
 import routes from "@/data/routes.json";
 import ascents from "@/data/ascents.json";
+import type { AscentStyle } from "@/lib/constants";
 
 export type Gym = {
   id: number;
@@ -21,9 +22,6 @@ export type Route = {
   setAt: string;
   removedAt: string | null;
 };
-
-export const ASCENT_STYLES = ["FLASH", "REDPOINT", "ATTEMPT"] as const;
-export type AscentStyle = (typeof ASCENT_STYLES)[number];
 
 export type Ascent = {
   id: number;

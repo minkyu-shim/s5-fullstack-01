@@ -1,4 +1,4 @@
-import type { AscentStyle } from "@/lib/data";
+import type { AscentStyle } from "@/lib/constants";
 
 // Dates are stored as "YYYY-MM-DD", read as UTC so the day never shifts
 export function formatDate(date: string): string {

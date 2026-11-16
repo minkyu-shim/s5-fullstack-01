@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import AscentForm from "@/components/ascent-form";
 import RouteColor from "@/components/route-color";
 import { getAscents, getGym, getRoute } from "@/lib/data";
 import { formatDate, STYLE_LABELS } from "@/lib/format";
@@ -59,6 +60,11 @@ export default async function RoutePage({ params }: PageProps<"/routes/[id]">) {
           </>
         )}
       </dl>
+
+      <h2 className="mt-10 text-xl font-semibold">Log an ascent</h2>
+      <div className="mt-4">
+        <AscentForm routeId={route.id} />
+      </div>
 
       <h2 className="mt-10 text-xl font-semibold">
         Ascents ({ascents.length})
