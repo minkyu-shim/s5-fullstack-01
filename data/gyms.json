@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "slug": "canal-bloc-paris",
+    "name": "Canal Bloc Paris",
+    "city": "Paris",
+    "address": "12 rue de l'Ourcq, 75019 Paris",
+    "description": "A large bouldering and lead gym by the canal, with a steep overhang cave and a slab wall for beginners."
+  },
+  {
+    "id": 2,
+    "slug": "les-hauteurs-lyon",
+    "name": "Les Hauteurs Lyon",
+    "city": "Lyon",
+    "address": "45 avenue Jean Jaurès, 69007 Lyon",
+    "description": "A lead climbing gym with 15-metre walls, auto-belays and a training room."
+  },
+  {
+    "id": 3,
+    "slug": "la-dalle-bordeaux",
+    "name": "La Dalle Bordeaux",
+    "city": "Bordeaux",
+    "address": "8 quai de Bacalan, 33300 Bordeaux",
+    "description": "A friendly bouldering gym in an old warehouse, reset one wall every week."
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "id": 1, "routeId": 1, "climberName": "Léa", "style": "FLASH", "date": "2026-10-30", "comment": "Nice warm-up." },
+  { "id": 2, "routeId": 2, "climberName": "Léa", "style": "REDPOINT", "date": "2026-11-01", "comment": "The pinch at the top is hard." },
+  { "id": 3, "routeId": 2, "climberName": "Karim", "style": "ATTEMPT", "date": "2026-11-01", "comment": null },
+  { "id": 4, "routeId": 3, "climberName": "Karim", "style": "ATTEMPT", "date": "2026-11-06", "comment": "Can't stick the heel hook yet." },
+  { "id": 5, "routeId": 4, "climberName": "Sofia", "style": "REDPOINT", "date": "2026-11-08", "comment": null },
+  { "id": 6, "routeId": 5, "climberName": "Sofia", "style": "FLASH", "date": "2026-10-02", "comment": null },
+  { "id": 7, "routeId": 8, "climberName": "Tom", "style": "ATTEMPT", "date": "2026-10-25", "comment": "Pumped out at the third bolt." },
+  { "id": 8, "routeId": 9, "climberName": "Tom", "style": "REDPOINT", "date": "2026-11-05", "comment": null },
+  { "id": 9, "routeId": 12, "climberName": "Inès", "style": "FLASH", "date": "2026-11-12", "comment": "Fun jump!" }
+]

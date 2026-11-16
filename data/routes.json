@@ -1,0 +1,14 @@
+[
+  { "id": 1, "gymId": 1, "name": "Canal Crack", "grade": "5c", "color": "green", "wall": "Slab", "setAt": "2026-10-28", "removedAt": null },
+  { "id": 2, "gymId": 1, "name": "Pinch Me", "grade": "6a+", "color": "yellow", "wall": "Slab", "setAt": "2026-10-28", "removedAt": null },
+  { "id": 3, "gymId": 1, "name": "The Cave Dweller", "grade": "7a", "color": "black", "wall": "Cave", "setAt": "2026-11-04", "removedAt": null },
+  { "id": 4, "gymId": 1, "name": "Roof Party", "grade": "6c", "color": "red", "wall": "Cave", "setAt": "2026-11-04", "removedAt": null },
+  { "id": 5, "gymId": 1, "name": "Old Faithful", "grade": "6b", "color": "blue", "wall": "Cave", "setAt": "2026-09-15", "removedAt": "2026-11-03" },
+  { "id": 6, "gymId": 1, "name": "Mantle Shelf", "grade": "5b", "color": "white", "wall": "Arete", "setAt": "2026-11-10", "removedAt": null },
+  { "id": 7, "gymId": 2, "name": "Rhône Runner", "grade": "6a", "color": "orange", "wall": "North Face", "setAt": "2026-10-20", "removedAt": null },
+  { "id": 8, "gymId": 2, "name": "Fourvière", "grade": "7b", "color": "purple", "wall": "North Face", "setAt": "2026-10-20", "removedAt": null },
+  { "id": 9, "gymId": 2, "name": "Long Way Up", "grade": "6b+", "color": "green", "wall": "Big Wall", "setAt": "2026-11-02", "removedAt": null },
+  { "id": 10, "gymId": 2, "name": "Endurance Test", "grade": "6c+", "color": "pink", "wall": "Big Wall", "setAt": "2026-11-02", "removedAt": null },
+  { "id": 11, "gymId": 3, "name": "Warehouse Warm-up", "grade": "4c", "color": "yellow", "wall": "Main", "setAt": "2026-11-09", "removedAt": null },
+  { "id": 12, "gymId": 3, "name": "Dyno Time", "grade": "6b", "color": "red", "wall": "Main", "setAt": "2026-11-09", "removedAt": null }
+]
